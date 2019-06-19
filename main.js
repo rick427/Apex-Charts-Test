@@ -50,5 +50,8 @@ document.querySelector('button').addEventListener('click', () => graph.updateOpt
         bar: {
             horizontal: true
         }
+    },
+    fill: {
+        colors: ['#33BBFF']
     }
 }))
